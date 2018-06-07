@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\user1\Desktop\MiniProjectsGame\src"/>
+		<item value="C:\Users\user1\Desktop\MiniProjectsGame"/>
+		<item value="C:\Users\user1\Desktop\MiniProjects\src"/>
+		<item value="C:\Users\user1\Desktop\MiniProjects"/>
+		<item value="C:\Users\user1\Desktop\나만의콘s"/>
+		<item value="D:\y2kim\예제\MiniProjects"/>
+		<item value="D:\y2kim\workspace2\MiniProjects"/>
+	</list>
+	<section name="NewWizardAction">
+	</section>
+</section>

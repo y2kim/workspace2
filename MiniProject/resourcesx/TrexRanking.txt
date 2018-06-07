@@ -1,0 +1,5 @@
+name=first:score=30
+name=test:score=20
+name=hello:score=16
+name=a:score=10
+name=ho:score=5
